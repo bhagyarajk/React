@@ -4,8 +4,8 @@
 // Hoisting : same as var, but they are not initialized, so you will get the errors (There is no further execution of the code)
 // const : Just like let, but the change is you cant redeclare or re-initialized hoisting is also same
 
-// to guess the output ofcourse the knowledge of hoisting is needed
-// Always use let and consts : don't use var anymore (var is very loose when it comes to using the vars without declaring)
+// to guess the output of course the knowledge of hoisting is needed
+// Always use let and const : don't use var anymore (var is very loose when it comes to using the vars without declaring)
 
 function display() {
   var name1 = "Bhagyaraj";
