@@ -1,7 +1,7 @@
 //Summary : var : method scoped when inside the methods, can be re-declared, reassigned, acts like global when outside the methods
-// Hoisting : var is hoisted in the top, and initialized with undefined
+// Hoisting : var declarations are hoisted in the top of function or script, and initialized with undefined
 // let : always block level scope, preferred to use, can be reassigned but not re-declared,
-// Hoisting : same as var, but they are not initialized, so you will get the errors (There is no further execution of the code)
+// Hoisting : let declarations are hosted at the top but they are not initialized so you will get the errors (Ref error so There is no further execution of the code)
 // const : Just like let, but the change is you cant redeclare or re-initialized hoisting is also same
 
 // to guess the output of course the knowledge of hoisting is needed
