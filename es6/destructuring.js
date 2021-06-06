@@ -1,4 +1,4 @@
-// remeber we attached many files to a single html so variables may conflict, ultimately js is executed as the long single page code
+// remember we attached many files to a single html so variables may conflict, ultimately js is executed as the long single page code
 // Destructuring allows pulling out certain properties from arrays or objects
 const arr1 = [2, 3];
 [value1, value2] = arr1;
